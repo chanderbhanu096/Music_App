@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        setTitle("Music Library");
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         LinearLayout linearLayout =(LinearLayout)findViewById(R.id.text1);

@@ -8,7 +8,6 @@ public class Play_Music extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        setTitle("Now Playing");
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_play__music);
     }
